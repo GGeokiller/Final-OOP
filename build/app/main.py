@@ -1,5 +1,5 @@
-from build.utils.utils import *
-from build.classes.trainClass import *
+from classes.trainClass import *
+from utils.utils import *
 
 def main():
     # TODO: Implement main logic here 
